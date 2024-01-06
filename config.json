@@ -1,6 +1,7 @@
 {
 	"show_labs_settings": true,
 	"features": {
+		"feature_video_rooms": true,
 		"feature_html_topic": true,
 		"feature_pinning": true,
 		"feature_ask_to_join": true

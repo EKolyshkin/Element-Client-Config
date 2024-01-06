@@ -1,5 +1,5 @@
 # Custom Config for Element's Matrix Client
-Configuration file to enable various Labs features in [Element Matrix Client](https://element.io/), such as pinned messages and Element Call.
+Configuration file to enable various Labs features in [Element Matrix Client](https://element.io/), such as video rooms and pinned messages.
 
 **Warning:** Some features enabled in this configuration file may not work on the stable Element client and require **Element Nightly** client instead. You can download it by finding it on the [download page](https://element.io/download) or [releases page](https://packages.element.io/nightly/install/index.html).
 
